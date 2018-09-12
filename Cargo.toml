@@ -1,0 +1,13 @@
+[package]
+name = "findpaths"
+version = "0.1.0"
+authors = ["QuangHuy <huynq@setacinq.vn>"]
+
+[dependencies]
+futures = "0.1.24"
+lapin-futures = "0.13.0"
+log = "0.4.5"
+tokio = "0.1.8"
+rustc-serialize = "0.3.24"
+config = "0.9.0"
+rusted_cypher = "1.1.0"

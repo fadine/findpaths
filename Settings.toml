@@ -1,0 +1,4 @@
+debug = false
+rabbit_dns = "192.168.80.23:5672"
+rabbit_queue = "hello"
+neo4j_dns = "http://neo4j:seta_123@192.168.80.195:7474/db/data"
